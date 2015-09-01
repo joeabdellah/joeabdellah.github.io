@@ -1,0 +1,27 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  font-size: 73px;
+  margin-bottom: 30px;
+
+}
+
+p { 
+  font-family: sans-serif;
+}
+
+p {
+    font-style: italic;
+}
+
+p {
+    line-height: 200%;
+}
+h1 {
+    margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
