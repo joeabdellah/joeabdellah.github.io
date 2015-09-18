@@ -1,16 +1,13 @@
 body{ font-family: georgia, serif;
-  font-size: 16px;
-  margin: 50px;
-  }
+      font-size: 16px;
+      margin: 50px;
+    }
 
   h1{
     text-align: center;
     font-weight: bold;
-    margin-bottom: 30px
-    }
-
-  h1{
-      margin-top: 20px
+    margin-bottom: 30px;
+    margin-top: 20px
     }
 
   span{font: white;
@@ -19,10 +16,10 @@ body{ font-family: georgia, serif;
   p {font-family: georgia, serif;
     font-size: 16px;
     font-style: italic;
-    line-height: 150%
+    line-height: 150%;
+    margin-bottom: 20px
     }
 
-  p{margin-bottom: 20px}
 
   h2 {margin: 10px;
       font-weight: bold;
@@ -34,15 +31,13 @@ body{ font-family: georgia, serif;
     border-color: black;
     border-spacing: 16px;
     padding: 5px;
+    border-bottom: solid;
+    border-color: black;
+    border-spacing: 16px;
+    background-color: #BDBFBF
     }
 
   .middle {padding: 5px;}
 
-  .project {
-    border-bottom: solid;
-    border-color: black;
-    border-spacing: 16px}
+  
 
-  .project{   
-    background-color: #BDBFBF
-    }
