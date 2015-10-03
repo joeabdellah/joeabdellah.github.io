@@ -1,13 +1,14 @@
 body{ font-family: georgia, serif;
-      font-size: 16px;
       margin: 50px;
+      background-color: #FFFF99;
     }
 
   h1{
     text-align: center;
     font-weight: bold;
     margin-bottom: 30px;
-    margin-top: 20px
+    margin-top: 20px;
+    font-size: 24px;
     }
 
   span{font: white;
@@ -17,12 +18,14 @@ body{ font-family: georgia, serif;
     font-size: 16px;
     font-style: italic;
     line-height: 150%;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    font-size: 16px;
     }
 
 
   h2 {margin: 10px;
       font-weight: bold;
+      font-size: 20px;
       
     }
 
@@ -37,7 +40,10 @@ body{ font-family: georgia, serif;
     background-color: #BDBFBF
     }
 
-  .middle {padding: 5px;}
+  .middle {
+    padding: 5px;
+    background-color: white;
+  }
 
   
 
