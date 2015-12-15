@@ -1,17 +1,19 @@
 body{ font-family: georgia, serif;
       margin: 50px;
-      background-color: #FFFF99;
+      background-color: #00004d;
     }
 
   h1{
     text-align: center;
     font-weight: bold;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     margin-top: 20px;
-    font-size: 24px;
+    font-size: 48px;
+    font-family: "Calibri", Times, sans-serif;
+    color: white;
     }
 
-  span{font: white;
+  span{font: black;
       }
 
   p {font-family: georgia, serif;
@@ -20,12 +22,32 @@ body{ font-family: georgia, serif;
     line-height: 150%;
     margin-bottom: 20px;
     font-size: 16px;
+    color: black;
     }
 
+  h3 {
+    font-family: "Calibri", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 200%;
+    margin-bottom: 75px;
+    font-size: 16px;
+    color: white;
+    padding-top: 20px;
+    margin-left: 20px;
+
+
+    }
+
+img {
+    float: left;
+    margin-right: 10px;
+}
 
   h2 {margin: 10px;
       font-weight: bold;
       font-size: 20px;
+      color: black;
       
     }
 
@@ -37,12 +59,21 @@ body{ font-family: georgia, serif;
     border-bottom: solid;
     border-color: black;
     border-spacing: 16px;
-    background-color: #BDBFBF
+    background-color: #99ccff;
+    margin-bottom: 15px;
     }
 
   .middle {
     padding: 5px;
     background-color: white;
+    border-top: solid;
+    border-color: black;
+    border-spacing: 16px;
+    padding: 5px;
+    border-bottom: solid;
+    border-color: black;
+    border-spacing: 16px;
+    margin-bottom: 15px;
   }
 
   
